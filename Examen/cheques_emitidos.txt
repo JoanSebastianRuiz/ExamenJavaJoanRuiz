@@ -1,0 +1,9 @@
+-----------------------------------------------------------
+BANCO UNION S.A.
+Identificacion cliente emisor: 123456789
+Cliente emisor: Juan Perez
+Beneficiario: Joan
+Monto: 1000000.0
+Prioridad: Alta
+-----------------------------------------------------------
+
